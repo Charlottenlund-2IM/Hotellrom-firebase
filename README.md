@@ -6,9 +6,9 @@ Du skal legge inn minst 15 hotellrom i databasen. Rommene skal registreres med r
 
 Oppgavene under kan du løse enten ved å hardkode spøringene og skrive ut i konsollen, eller ved å lage et brukergrensesnitt på en nettside som skriver ut resultatet.
 
-Bruk [guiden om å skrive og lese data i Cloud Firestore](https://cha-it.github.io/database/firebase/2022/01/16/skrive-og-lese-data-i-cloud-firestore.html) som bakgrunnsstoff.
+Bruk [guidene om å skrive og lese data i Cloud Firestore](https://cha-im.github.io/note/Firebase) som bakgrunnsstoff.
 
-##Oppgaver
+## Oppgaver
 1. Skriv ut informasjon om alle rom på hotellet.
 2. Skriv ut alle rom i 1. etasje (eller la brukeren velge etasje).
 3. Skriv ut alle rom med mer enn to sengeplasser (eller la brukeren velge anall sengeplasser).
